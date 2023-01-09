@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jordankettles
-- 👀 I’m interested in learning computer science.
-- 🌱 I’m currently learning at The University of Otago.
-- 💞️ I’m looking to collaborate on nothing right now, I'm too busy studying!
+- 👀 I studied in NLP and language models at The University of Otago during my honours.
+- 🌱 I’m currently a Junior Integration Developer at Z Energy.
 
 <!---
 jordankettles/jordankettles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
